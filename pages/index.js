@@ -13,7 +13,7 @@ function Home() {
             <li>Na conexão <strong style={{ color: '#1565c0' }}>TCP</strong>, o protocolo <strong style={{ color: '#1565c0' }}>HTTP</strong> (Protocolo de Transferência de Hipertexto) solicitou ao servidor a página com esta mensagem, e novamente o <strong style={{ color: '#1565c0' }}>TCP</strong> foi utilizado para garantir a entrega confiável da mensagem pelo servidor.</li>
             <li>E, por fim, o <strong style={{ color: '#1565c0' }}>HTTP</strong> transmitiu a página solicitada.</li>
             <li>Uau, tantos conceitos técnicos! Caso você não tenha compreendido completamente, não se preocupe! O mais importante é que você entenda o seguinte:</li>
-          </ul>
+          </ul>npm
         </div>
         <h1 style={{ fontSize: '48px', marginBottom: '10px', color: '#c2185b' }}>EU TE AMO, ANDREIA!</h1>
         <h2 style={{ fontSize: '24px', marginBottom: '40px', color: '#1565c0' }}>Com todo o meu carinho: Ronaldo. Beijos.</h2>
