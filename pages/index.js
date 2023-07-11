@@ -1,11 +1,11 @@
 function Home() {
     return (
       <div style={{ fontFamily: 'Roboto, sans-serif', backgroundColor: '#fdeff2', color: '#333', padding: '20px', textAlign: 'center' }}>
-        <h1 style={{ fontSize: '32px', marginBottom: '20px', color: '#c2185b' }}>Atenção, Andreia!</h1>
+        <h1 style={{ fontSize: '32px', marginBottom: '20px', color: '#c2185b' }}>Atenção, Andreia! Mensagem para você!</h1>
         <div style={{ maxWidth: '600px', margin: '0 auto' }}>
           <ul style={{ listStyleType: 'disc', textAlign: 'left', marginBottom: '40px', paddingLeft: '20px' }}>
             <li>Atravessei diferentes caminhos para chegar até aqui e te dizer algo extremamente importante.</li>
-            <li>Foram necessários alguns protocolos (conjuntos de regras) para viabilizar essa comunicação, e como o que vou expressar não precisa ser mantido em segredo, utilizamos o protocolo <strong style={{ color: '#1565c0' }}>HTTP</strong>.</li>
+            <li>Foram necessários alguns protocolos (conjuntos de regras) para viabilizar essa comunicação, e como o que vou expressar não precisa ser mantido em segredo, utilizei o protocolo <strong style={{ color: '#1565c0' }}>HTTP</strong>.</li>
             <li>A jornada ocorreu mais ou menos assim: o protocolo <strong style={{ color: '#1565c0' }}>DNS</strong> converteu a URL do site em um endereço IP, permitindo encontrar o servidor adequado para a página em questão.</li>
             <li>Após você clicar na URL que te enviei, estabelecemos uma conexão <strong style={{ color: '#1565c0' }}>TCP</strong> (Protocolo de Controle de Transmissão) entre o seu dispositivo (smartphone) e o servidor da mensagem.</li>
             <li>O <strong style={{ color: '#1565c0' }}>TCP</strong> garantiu que a mensagem fosse dividida em vários segmentos e enviada de forma confiável e na ordem correta.</li>
