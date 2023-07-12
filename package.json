@@ -10,7 +10,9 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "next": "13.4.9"
+  },
   "devDependencies": {
     "prettier": "^3.0.0"
   }
