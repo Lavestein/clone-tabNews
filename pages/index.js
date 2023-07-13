@@ -72,7 +72,6 @@ function Home() {
             o seguinte:
           </li>
         </ul>
-        npm
       </div>
       <h1 style={{ fontSize: "48px", marginBottom: "10px", color: "#c2185b" }}>
         EU TE AMO, ANDREIA!
